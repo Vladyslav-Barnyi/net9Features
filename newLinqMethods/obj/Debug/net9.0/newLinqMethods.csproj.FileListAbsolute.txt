@@ -1,0 +1,14 @@
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newLinqMethods/bin/Debug/net9.0/newLinqMethods
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newLinqMethods/bin/Debug/net9.0/newLinqMethods.deps.json
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newLinqMethods/bin/Debug/net9.0/newLinqMethods.runtimeconfig.json
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newLinqMethods/bin/Debug/net9.0/newLinqMethods.dll
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newLinqMethods/bin/Debug/net9.0/newLinqMethods.pdb
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newLinqMethods/obj/Debug/net9.0/newLinqMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newLinqMethods/obj/Debug/net9.0/newLinqMethods.AssemblyInfoInputs.cache
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newLinqMethods/obj/Debug/net9.0/newLinqMethods.AssemblyInfo.cs
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newLinqMethods/obj/Debug/net9.0/newLinqMethods.csproj.CoreCompileInputs.cache
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newLinqMethods/obj/Debug/net9.0/newLinqMethods.dll
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newLinqMethods/obj/Debug/net9.0/refint/newLinqMethods.dll
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newLinqMethods/obj/Debug/net9.0/newLinqMethods.pdb
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newLinqMethods/obj/Debug/net9.0/newLinqMethods.genruntimeconfig.cache
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newLinqMethods/obj/Debug/net9.0/ref/newLinqMethods.dll

@@ -1,0 +1,14 @@
+/Users/vladyslavbarnyi/RiderProjects/net9Features /FeatureSwitching/bin/Release/net9.0/FeatureSwitching
+/Users/vladyslavbarnyi/RiderProjects/net9Features /FeatureSwitching/bin/Release/net9.0/FeatureSwitching.deps.json
+/Users/vladyslavbarnyi/RiderProjects/net9Features /FeatureSwitching/bin/Release/net9.0/FeatureSwitching.runtimeconfig.json
+/Users/vladyslavbarnyi/RiderProjects/net9Features /FeatureSwitching/bin/Release/net9.0/FeatureSwitching.dll
+/Users/vladyslavbarnyi/RiderProjects/net9Features /FeatureSwitching/bin/Release/net9.0/FeatureSwitching.pdb
+/Users/vladyslavbarnyi/RiderProjects/net9Features /FeatureSwitching/obj/Release/net9.0/FeatureSwitching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladyslavbarnyi/RiderProjects/net9Features /FeatureSwitching/obj/Release/net9.0/FeatureSwitching.AssemblyInfoInputs.cache
+/Users/vladyslavbarnyi/RiderProjects/net9Features /FeatureSwitching/obj/Release/net9.0/FeatureSwitching.AssemblyInfo.cs
+/Users/vladyslavbarnyi/RiderProjects/net9Features /FeatureSwitching/obj/Release/net9.0/FeatureSwitching.csproj.CoreCompileInputs.cache
+/Users/vladyslavbarnyi/RiderProjects/net9Features /FeatureSwitching/obj/Release/net9.0/FeatureSwitching.dll
+/Users/vladyslavbarnyi/RiderProjects/net9Features /FeatureSwitching/obj/Release/net9.0/refint/FeatureSwitching.dll
+/Users/vladyslavbarnyi/RiderProjects/net9Features /FeatureSwitching/obj/Release/net9.0/FeatureSwitching.pdb
+/Users/vladyslavbarnyi/RiderProjects/net9Features /FeatureSwitching/obj/Release/net9.0/FeatureSwitching.genruntimeconfig.cache
+/Users/vladyslavbarnyi/RiderProjects/net9Features /FeatureSwitching/obj/Release/net9.0/ref/FeatureSwitching.dll

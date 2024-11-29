@@ -1,0 +1,14 @@
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newCsharpFeature/bin/Release/net9.0/newCsharpFeature
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newCsharpFeature/bin/Release/net9.0/newCsharpFeature.deps.json
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newCsharpFeature/bin/Release/net9.0/newCsharpFeature.runtimeconfig.json
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newCsharpFeature/bin/Release/net9.0/newCsharpFeature.dll
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newCsharpFeature/bin/Release/net9.0/newCsharpFeature.pdb
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newCsharpFeature/obj/Release/net9.0/newCsharpFeature.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newCsharpFeature/obj/Release/net9.0/newCsharpFeature.AssemblyInfoInputs.cache
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newCsharpFeature/obj/Release/net9.0/newCsharpFeature.AssemblyInfo.cs
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newCsharpFeature/obj/Release/net9.0/newCsharpFeature.csproj.CoreCompileInputs.cache
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newCsharpFeature/obj/Release/net9.0/newCsharpFeature.dll
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newCsharpFeature/obj/Release/net9.0/refint/newCsharpFeature.dll
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newCsharpFeature/obj/Release/net9.0/newCsharpFeature.pdb
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newCsharpFeature/obj/Release/net9.0/newCsharpFeature.genruntimeconfig.cache
+/Users/vladyslavbarnyi/RiderProjects/net9Features /newCsharpFeature/obj/Release/net9.0/ref/newCsharpFeature.dll
